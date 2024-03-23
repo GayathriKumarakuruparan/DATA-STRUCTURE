@@ -1,0 +1,14 @@
+#[0]
+Word is [are]: File count is 2 File/s: File is file1.txt: Word count is 1
+File is file2.txt: Word count is 1
+#[5]
+Word is [fine]: File count is 1 File/s: File is file2.txt: Word count is 1
+#[7]
+Word is [hello]: File count is 2 File/s: File is file1.txt: Word count is 1
+File is file2.txt: Word count is 1
+Word is [hi]: File count is 1 File/s: File is file1.txt: Word count is 1
+Word is [how]: File count is 2 File/s: File is file1.txt: Word count is 1
+File is file2.txt: Word count is 1
+#[24]
+Word is [you]: File count is 2 File/s: File is file1.txt: Word count is 1
+File is file2.txt: Word count is 1
